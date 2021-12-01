@@ -1,0 +1,8 @@
+aiohttp
+aiosqlite
+asyncpg
+async-timeout
+click
+iso8601
+loguru
+more-itertools
